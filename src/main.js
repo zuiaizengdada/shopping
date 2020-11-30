@@ -24,7 +24,7 @@ import Vant from 'vant'
 import 'vant/lib/index.css'
 
 Vue.use(Vant)
-// import 'swiper/dist/css/swiper.css'
+
 import 'swiper/swiper-bundle.css'
 import './plugins/vant.js'
 
